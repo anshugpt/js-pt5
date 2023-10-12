@@ -120,3 +120,17 @@
 
 // let num = Math.floor(Math.random() * 10); //* Done :) (1 to 9)
 // let num = Math.floor(Math.random() * 10) + 1; //* Done :) (1 to 10)
+
+//* Practice Question
+// Generate a random number btw 1 to 100
+
+// let num = Math.floor(Math.random() * 100) + 1;
+
+// Generate a number btw 1 to 5
+
+// let num = Math.floor(Math.random() * 5) + 1;
+
+//* Generate number btw 20 to 25
+
+//* let num = Math.floor(Math.random() * 6) + 20;
+
