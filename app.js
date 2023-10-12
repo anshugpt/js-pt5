@@ -21,3 +21,12 @@
 //     uniformColor: ["Blue", "White"]
 // };
 
+// TODO: Create a Object Literals of Post of Twitter
+
+const post = {
+    userName: "@anshugu99",
+    content: "This is my #FirstPost!",
+    likes: 45,
+    repost: 4,
+    tags: ["@anjalidr31", "@anushka0108", "@ushagu"]
+};
