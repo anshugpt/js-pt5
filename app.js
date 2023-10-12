@@ -52,3 +52,26 @@
 
 // To delete key & value :-
 // delete student.age;
+
+//* Object of objects
+// nesting of objects
+
+// const classInfo = {
+//     anshu : {
+//         grade: "A+",
+//         city: "Dubai"
+//     },
+//     anjali : {
+//         grade : "F",
+//         city : "chor-bajar"
+//     },
+//     anushka : {
+//         grade : "z-",
+//         city : "garwa"
+//     }
+// };
+
+// To access the value it the same way like other objects
+//classInfo.anshu.city --> 'Dubai'
+
+
