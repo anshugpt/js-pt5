@@ -49,3 +49,6 @@
                                //* Simple Assiment operator uses
 // To add value :-
 // student.gender = "Male";
+
+// To delete key & value :-
+// delete student.age;
