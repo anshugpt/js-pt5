@@ -134,3 +134,35 @@
 
 //* let num = Math.floor(Math.random() * 6) + 20;
 
+
+// TODO: Guessing Game
+// input from user (number)
+// generate random number from 1 to that input by user
+// take a guess from user 
+// if user input is greater than that random number -> tell user that your number is greater than that number
+// if user input is less than that number then tell user that your number is less than that of number
+
+// let range = prompt("What's your range?")
+// range = parseInt(range)
+// let randomNum = Math.floor(Math.random() * range) + 1
+// let guess = prompt("What's your Guess? (type 'Quit' for out of this game.)").toLowerCase()
+
+// while(true){
+//     if (guess === "quit"){
+//         break;
+//     }
+//     if(guess == randomNum){
+//         console.log("Correct!!");
+//         break;
+//     } else if (guess > randomNum){
+//         console.log("Your guess is greater than number");
+//     } else if(guess < randomNum){
+//         console.log("Your guess is less than number");
+//     }
+//     guess = prompt("Try again or quit!");
+// }
+// console.warn("The game has ended!!");
+
+
+
+
