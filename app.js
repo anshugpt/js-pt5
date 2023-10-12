@@ -75,3 +75,35 @@
 //classInfo.anshu.city --> 'Dubai'
 
 
+//* Array of Objects
+// We can perform same operation like we did on objects & array
+// just access the items and its simple
+
+// const classInfo = [
+//     {
+//         name: "Anshu",
+//         age: 21
+//     },
+//     {
+//         name: "Anjali",
+//         age: 18
+//     },
+//     {
+//         name: "Anushka",
+//         age: 21
+//     }
+// ];
+
+//* Math Object
+// based on math property :-
+
+// Math.PI --> give pi value
+// Math.E --> give the value of E
+
+// based on methods :-
+
+// Math.abs(n) -> return absolute value of n {(12) -> 12, (-12) -> 12}
+// Math.pow(a, b) -> return a**b (a to the power of b)
+// Math.floor(n) -> return round off value of n {(5.999999) -> 5} nearest smallest integer value par round off karta hai
+// Math.ceil(n) -> return round off value of n to the nearest largest integer value {(5.5) -> 6}
+// Math.random() -> return random number btw 0 to 1 (but do not return 1)
