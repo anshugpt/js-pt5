@@ -30,3 +30,8 @@ const post = {
     repost: 4,
     tags: ["@anjalidr31", "@anushka0108", "@ushagu"]
 };
+
+//* How to access your value :-
+// there is two ways we can access our value
+// 1st --> propertyName["keyName"]
+// 2nd --> propertyName.keyName {Dot operator}
