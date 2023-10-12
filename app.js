@@ -23,15 +23,29 @@
 
 // TODO: Create a Object Literals of Post of Twitter
 
-const post = {
-    userName: "@anshugu99",
-    content: "This is my #FirstPost!",
-    likes: 45,
-    repost: 4,
-    tags: ["@anjalidr31", "@anushka0108", "@ushagu"]
-};
+// const post = {
+//     userName: "@anshugu99",
+//     content: "This is my #FirstPost!",
+//     likes: 45,
+//     repost: 4,
+//     tags: ["@anjalidr31", "@anushka0108", "@ushagu"]
+// };
 
 //* How to access your value :-
 // there is two ways we can access our value
 // 1st --> propertyName["keyName"]
 // 2nd --> propertyName.keyName {Dot operator}
+
+//* JS automatically converts objects keys to strings
+
+//* Add/Update Value
+// const student = {
+//     name: "Anshu",
+//     age: 21,
+//     city:"Aurangabad"
+// };
+// To update value :-
+// student.city = "Ranchi";
+                               //* Simple Assiment operator uses
+// To add value :-
+// student.gender = "Male";
