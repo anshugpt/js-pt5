@@ -107,3 +107,16 @@
 // Math.floor(n) -> return round off value of n {(5.999999) -> 5} nearest smallest integer value par round off karta hai
 // Math.ceil(n) -> return round off value of n to the nearest largest integer value {(5.5) -> 6}
 // Math.random() -> return random number btw 0 to 1 (but do not return 1)
+
+//* Random Number
+// if we want to generate random num from 1 to 10 or more then :-
+
+// Step 1 : let num = Math.random()
+// Step 2 : num = num * 10              //* replace 10 with what you want to generate to.
+// Step 3 : num = Math,floor(num)
+// Step 4 : num = num + 1
+
+// Shortcut Form
+
+// let num = Math.floor(Math.random() * 10); //* Done :) (1 to 9)
+// let num = Math.floor(Math.random() * 10) + 1; //* Done :) (1 to 10)
